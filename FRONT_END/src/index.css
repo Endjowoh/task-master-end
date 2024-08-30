@@ -1,0 +1,19 @@
+/* *{
+    outline: 1px solid red;
+} */
+
+*,ul,li{
+ margin: 0px;
+ padding: 0px;  
+}
+
+.registration-link:hover{
+   cursor: pointer; 
+}
+/* body{
+overflow: hidden;
+}  */
+/* .scrollable {
+height: 400px!important;
+overflow-x: auto!important;
+} */
